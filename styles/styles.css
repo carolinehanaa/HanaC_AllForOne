@@ -1,0 +1,107 @@
+/* Navbar */
+
+.nav-img{
+    display: flex;
+    justify-content: center;
+    margin-right: 134px;
+}
+
+.bg-home{
+    background: #C6EAFF;
+}
+
+.navbar{
+    background: white;
+}
+
+.top-img{
+    display: flex;
+    justify-content: end;
+    margin-left: 1258px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    width: 249px;
+    height: 140px;
+}
+
+.bottom-img{
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+    width: 249px;
+    height: 140px;
+}
+
+/* page 1 */
+
+.bg-page1{
+    background: #FFDEED;
+}
+
+
+.hello-submit{
+    margin-top: 20px;
+}
+
+.hello-res{
+    margin-top: 30px;
+}
+
+
+/* page 2 */
+
+.bg-page2{
+    background: #FFDEED;
+}
+
+
+.plus{
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+    font-size: 20px;
+}
+
+
+/* page 3 */
+
+.bg-page3{
+    background: #D2FFD1;
+}
+
+/* page 4 */
+
+.bg-page4{
+    background: #FFFCBB;
+}
+
+
+/* page 5 */
+
+.bg-page5{
+    background: #FFE7F1;
+}
+
+/* page 6 */
+
+.bg-page6{
+    background: #FEEBC6;
+}
+
+/* page 7 */
+
+.bg-page7{
+    background: #FDBFBF;
+}
+
+/* page 8 */
+
+.bg-page8{
+    background: #FFF9D1;
+}
+
+/* page 9 */
+
+.bg-page9{
+    background: #FFD0DF;
+}
